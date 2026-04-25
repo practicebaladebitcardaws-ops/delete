@@ -1,0 +1,9 @@
+line 1
+line 2
+line 3
+----- after adding to the staging area -----
+1
+2
+3
+4
+------ 123456-----
