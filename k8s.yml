@@ -1,0 +1,11 @@
+eeeee
+eeee
+env:
+  - name:  ENV_VAR
+    valueFrom:
+      secretKeyRef:
+        name:  name
+        key:  key
+
+        kkkk
+        
